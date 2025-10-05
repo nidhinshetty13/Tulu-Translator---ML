@@ -1,0 +1,683 @@
+﻿english_w,tulu_w
+name,ಪುದರ್
+how,ಎಂಚ
+why,ದಾಯೆಗ್
+you,ಈರ್
+mom,ಅಮ್ಮ
+dad,ಅಪ್ಪ
+sister,ಮೆಗ್ದಿ
+brother,ಪಲಯೆ
+home,ಇಲ್ಲ್
+friend,ದೋಸ್ತಿ
+name,ಪುದರ್
+what is your name,ನಿನ್ನ ಪುದರ್ ದಾದ
+how are you,ಯೀರ್ ಎಂಚ ಉಲ್ಲರ್
+I,ಯಾನ್
+you,ಈರ್
+he,ಆಯೆ
+she,ಆಲ್
+it,ಉಂದು
+we,ನಮ
+they,ಅಕುಲು
+a,ಒಂಜಿ
+an,ಒಂಜಿ
+the,ಆ
+in,ಉಲಯಿ
+on,ಮಿತ್ತುಗು
+under,ಅಡಿಟ್ಟ್
+over,ಮುಗಿಂಡ್
+with,ಒಟ್ಟುಗು
+without,ಉಪ್ಪಂದೆ
+before,ದುಂಬು
+after,ಬೊಕ
+and,ಬೊಕ
+but,ಆಂಡ
+or,ಅಥವಾ
+so,ಇಂಚಾದ್
+because,ದಾಯೆಗ್ ಪಂಡ
+although,ಇಂಚಾ೦ಡಲಾ
+one,ಒಂಜಿ
+two,ರಡ್ಡ್
+three,ಮೂಜಿ
+four,ನಾಲ್
+five,ಐನ್
+six,ಆಜಿ
+seven,ಏಳ್
+eight,ಎಣ್ಮ
+nine,ಒರಂಬ
+ten,ಪತ್ತು
+hundred,ನೂದು
+thousand,ಸಾವಿರ
+lakh,ಲಕ್ಷ
+crore,ಕೋಟಿ
+Monday,ಸೋಮಾರ
+Tuesday,ಅಂಗಾರೆ
+Wednesday,ಬುದಾರ
+Thursday,ಗುರುವಾರ
+Friday,ಶುಕ್ರಾರ
+Saturday,ಶನಿವಾರ
+Sunday,ಅಯಿತಾರ
+January,ಜನವರಿ
+February,ಫೆಬ್ರವರಿ
+March,ಮಾರ್ಚಿ
+April,ಏಪ್ರಿಲ್
+May,ಸಾಧ್ಯತೆ
+June,ಜೂನ್
+July,ಜುಲೈ
+August,ಆಗಸ್ಟ್
+September,ಸಪ್ಟಂಬರ್
+October,ಅಕ್ಟೋಬರ್
+November,ನವೆಂಬರ್
+December,ಡಿಸೆಂಬರ್
+today,ಇನಿ
+tomorrow,ಎಲ್ಲೆ
+yesterday,ಕೋಡೆ
+morning,ಕಾಂಡೆ
+evening,ಬಯ್ಯ
+night,ರಾತ್ರೆ
+always,ಯೆದಾಲ
+never,ಏಪಲಾ
+hello,ಅಂದೇ
+good morning,ಎದ್ದೆ ಕಾಂಡೆ
+good night,ಎಡ್ಡೆ ರಾತ್ರಿ
+thank you,ಯೀರೆಗ್ ಸೊಲ್ಮೆಲು
+sorry,ತಪ್ಪಾಂಡ್
+please,ದಯಮಲ್ತುದು
+welcome,ಸ್ವಾಗತ
+father,ಅಮ್ಮೆ
+mother,ಅಪ್ಪೆ
+brother,ಪಲಯೆ
+sister,ಮೆಗ್ದಿ
+son,ಮಗೆ
+daughter,ಮಗಲ್
+uncle,ಮಾಮು
+aunt,ಮಾಮಿ
+rice,ಆರಿ
+fish,ಮೀನ್
+water,ನೀರ್
+tea,ಚಾ
+milk,ಪೇರ್
+coconut,ತಾರಾಯಿ
+bread,ಬ್ರೆಡ್
+sugar,ಸೆಕ್ಕರೆ
+salt,ಉಪ್ಪು
+head,ಮಂಡೆ
+hand,ಕೈ
+leg,ಕಾರ್
+eyes,ಕಣ್ಣುಲು
+ears,ಕೆಮಿಕುಲು
+nose,ಮೂಂಕು
+mouth,ಬಾಯಿ
+stomach,ಬಂಜಿ
+shirt,ಅಂಗಿ
+pants,ಪ್ಯಾಂಟುಲು
+saree,ಸೀರೆ
+dhoti,ಧೋತಿ
+shoes,ಮುಟ್ಟು
+cap,ಕ್ಯಾಪ್
+home,ಇಲ್ಲ್
+school,ಶಾಲೆ
+market,ಸಂತೆ
+hospital,ಆಸ್ಪತ್ರೆ
+temple,ದೇವಸ್ಥಾನ
+bus stop,ಬಸ್ ನಿಲ್ದಾಣ
+office,ಆಪೀಸ್
+sun,ಸೂರ್ಯೆ
+moon,ಚಂದ್ರೆ
+rain,ಬರ್ಸ
+river,ತುದೆ
+tree,ಮರ
+flower,ಪೂ
+soil,ಮಣ್ಣ್
+sky,ಬಾನ
+star,ತಾರಗೆ
+be,ಉಪ್ಪು
+have,ಪಡೆವೊನ್
+do,ಮಲ್ಪುಲೆ
+go,ಪೋ
+come,ಬಲ
+eat,ತಿನ್
+drink,ಪರ್
+sleep,ಜೆಪ್ಪು
+run,ಬಲ್ಪು
+walk,ನಡಕೆ
+sit,ಕುಲ್ಲ್
+stand,ಅಭಿಪ್ರಾಯ
+say,ಪನ್
+talk,ಪಾತೆರ
+see,ತೂಲ
+hear,ಕೇನ್
+read,ಓದು
+write,ಬರೆಲೆ
+learn,ಕಲ್ಪುನು
+give,ಕೊರ್
+take,ದೆತೊನಿ
+buy,ದೆತ್ತೊನ್
+sell,ಮಾರುನು
+play,ಆಟ
+work,ಬೆಲೆ
+wait,ಕಾಪು
+What is your name?,ನಿನ್ನ ಪುದರ್ ದಾದ?
+My name is …,ಎನ್ನ ಪುದರ್ …
+How are you?,ಯೀರ್ ಎಂಚ ಉಲ್ಲರ್?
+I am fine.,ಯಾನ್ ಹುಷಾರ್ ಉಲ್ಲೆ.
+Where are you going?,ಈರ್ ಎಲ್ಲಿಗ್ ಪೋವೊಂದುಲ್ಲರ್?
+I am going to school.,ಯಾನ್ ಶಾಲೆಗ್ ಪೋವೊಂದುಲ್ಲೆ.
+Do you want food?,ನಿಕ್ಲೆಗ್ ಆಹಾರ ಬೋಡು?
+"Yes, I want.","ಐನ್, ಎಂಕ್ ಬೋಡು."
+"No, I don’t want.","ಇಜ್ಜಿ, ಎಂಕ್ ಇಷ್ಟ ಇಜ್ಜಿ."
+Please help me.,ದಯಮಲ್ತ್ ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪುಲೆ.
+I don’t understand.,ಎಂಕು ಅರ್ಥ ಆಪುಜ್ಜಿ.
+What is this?,ಉಂದು ಎಂಚಿನ?
+This is water.,ಉಂದು ನೀರ್.
+How much is this?,ಉಂದು ಎಂಚ ಉಂಡು?
+I am hungry.,ಎಂಕ್ ಬಂಜಿ ಉಂಡು.
+I am thirsty.,ಎಂಕ್ ಬಾಸೆ ಉಂಡು.
+See you tomorrow.,ಎಲ್ಲೆ ಪಾರ್ತೆಕ.
+okay,ಆವು
+yes,ಅಂದ್
+no,ಇಜ್ಜಿ
+maybe,ಆದುಪ್ಪು
+excuse me,ಎನನ್ ಮಾಪ್ ಮಲ್ಪುಲೆ
+sorry,ತಪ್ಪಾಂಡ್
+thank you,ಯೀರೆಗ್ ಸೊಲ್ಮೆಲು
+please,ದಯಮಲ್ತುದು
+really?,ನಿಜವಾದು?
+of course,ಸತ್ಯವಾದ್
+car,ಕಾರ್
+bus,ಬಸ್
+train,ರೈಲ್
+bicycle,ಸ್ಕೂಟರ್
+road,ತಾದಿ
+bridge,ಸಂಕ
+ticket,ಟಿಕೆಟ್
+red,ಕೆಂಪು
+blue,ನೀಲಿ
+green,ಪಚ್ಚೆ
+black,ಕಪ್ಪು
+white,ಬೊಳ್ದು
+yellow,ಮಂಜಲ್
+cow,ಪೆತ್ತ
+dog,ನಾಯಿ
+cat,ಪುಚ್ಚೆ
+chicken,ಕೋರಿ
+elephant,ಆನೆ
+monkey,ಮಂಗೆ
+tiger,ಪಿಲಿ
+farmer,ಬೆನ್ನಿದಾಯೆ
+teacher,ಗುರುಕ್ಕುಲು
+doctor,ಡಾಕ್ಟ್ರು
+student,ವಿದ್ಯಾರ್ಥಿ
+worker,ಬೇಲೆದಾರ್
+fisherman,ಮೀನುಗಾರೆ
+phone,ಫೋನ್
+computer,ಕಂಪ್ಯೂಟರ್
+internet,ಅಂತರ್ಜಾಲ
+electricity,ವಿದ್ಯುತ್
+battery,ಬ್ಯಾಟರಿ
+friend,ದೋಸ್ತಿ
+relative,ಸಂಬಂಧ
+neighbor,ನೆರೆಕರೆ
+child,ಬಾಲೆ
+baby,ಬಾಲೆ
+young,ಜವನೆ
+old,ಪರತ್ತ್
+man,ಆಂಜೊವ್
+woman,ಪೊಂಜೋವು
+boy,ಆಣ್
+girl,ಪೊಣ್ಣು
+food,ತಿನಸ್
+drink,ಪರ್
+house,ಇಲ್ಲ್
+room,ಕೋಣೆ
+door,ಬಾಕಿಲ್
+window,ಕಂಡಿ
+road,ತಾದಿ
+street,ತಾದಿ
+village,ಗ್ರಾಮ
+city,ಪೇಂಟೆ
+money,ಕಾಸ್
+price,ಬಿಲೆ
+work,ಬೆಲೆ
+job,ಕೆಲಸ
+study,ಅಭ್ಯಾಸ
+exam,ಪರೀಕ್ಷೆ
+book,ಪುಸ್ತಕ
+pen,ಪೆನ್ನ್
+paper,ಕಾಕಜಿ
+notebook,ನೋಟ್ಬುಕ್
+chair,ಕುರ್ಚಿ
+table,ಮೇಜ್
+bed,ಹಾಸಿಗೆ
+fan,ಬೆಂಬಲಿಗೆರ್
+light,ಬೊಲ್ಪು
+phone number,ಫೋನ್ ನಂಬರ್
+address,ವಿಳಾಸ
+market,ಸಂತೆ
+shop,ಅಂಗಡಿ
+police,ಪೋಲಿಸ್
+hospital,ಆಸ್ಪತ್ರೆ
+doctor,ಡಾಕ್ಟ್ರು
+medicine,ಮರ್ದ್
+bus,ಬಸ್
+train,ರೈಲ್
+station,ಸ್ಟೇಷನ್
+ticket,ಟಿಕೆಟ್
+time,ಪೊರ್ತು
+hour,ಗಂಟೆ
+minute,ನಿಮಿಷ
+second,ರಡ್ಡನೆ
+hot,ಬೆಚ್ಚ
+cold,ಚಳಿ
+big,ಮಲ್ಲ
+small,ಎಲ್ಯ
+new,ಪೊಸತ್ತ್
+old,ಪರತ್ತ್
+fast,ಬೇಗ
+slow,ನಿಧಾನ
+good,ಏಡ್ಡೆ
+bad,ಪಡ್ಕೆ
+beautiful,ಪೊರ್ಲು
+ugly,ಕುರೆ
+clean,ಮಡಿ
+dirty,ಕುರೆ
+Where are you from?,ಯೀರೆಗು ಒಲ್ಪ ಆಂಡ್?
+I am from Mangalore.,ಯಾನ್ ಕುಡ್ಲದಕುಲು.
+What is your age?,ನಿಕ್ಲೆನ ಪ್ರಾಯ ಎಂಚ ಉಂಡು?
+I am 19 years old.,ಎಂಕ್ 19 ವರ್ಷ.
+Can you speak Tulu?,ತುಳು ಪಾತೆರೊಲಿಯಾ?
+I don’t know Tulu.,ಎಂಕ್ ತುಳು ಗೊತ್ತುಜ್ಜಿ.
+Please speak slowly.,ದಯಮಲ್ತ್ ನಿಧಾನವಾದ್ ಪಾತೆರ್ಲೆ.
+Can you repeat that?,ಈರ್ ಅವೆನ್ ಪುನರಾವರ್ತಿಸೊಲಿ?
+Where is the bus stop?,ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿ ಉಂಡು?
+How much is the ticket?,ಟಿಕೆಟ್ ಎಂಚ ಉಂಡು?
+I need a doctor.,ಎಂಕ್ ಒರಿ ಡಾಕ್ಟರ್ ಬೋಡು.
+Call the police.,ಪೊಲೀಸ್ ಲೆಗ್ ಕಾಲ್ ಮಲ್ಪುಲೆ.
+I am not feeling well.,ಎಂಕ್ ಎಡ್ಡೆ ಅನುಭವ ಆವೊಂದಿಜ್ಜಿ.
+What time is it?,ಇತ್ತೆ ಎಂಚ ಗಂಟೆ ಆತ್ಂಡ್?
+It is 5 o’clock.,ಇತ್ತೆ ೫ ಗಂಟೆ ಆತ್ಂಡ್.
+Where is your house?,ನಿಕ್ಲೆನ ಇಲ್ಲ್ ಎಲ್ಲೆ ಉಂಡು?
+My house is near the temple.,ಎನ್ನ ಇಲ್ಲ್ ದೇವಸ್ಥಾನದ ಕೈತಲ್ ಉಂಡು.
+I am studying in college.,ಯಾನ್ ಕಾಲೇಜಿಡ್ ಕಲ್ತೊಂದು ಉಲ್ಲೆ.
+I am working in an office.,ಯಾನ್ ಒಂಜಿ ಆಫೀಸ್ ಡ್ ಬೇಲೆ ಮಲ್ತೊಂದುಲ್ಲೆ.
+Do you understand?,ನಿಕ್ಲೆಗ್ ಅರ್ಥ ಆಂಡ್?
+"Yes, I understand.","ಐನ್, ಎಂಕ್ ಅರ್ಥ ಆಂಡ್."
+"No, I don’t understand.","ಇಜ್ಜಿ, ಎಂಕ್ ಅರ್ಥ ಆಪುಜಿ."
+Can you help me?,ಈರ್ ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪೊಲಿಯಾ?
+I am going home.,ಯಾನ್ ಇಲ್ಲಗ್ ಪೋವೊಂದುಲ್ಲೆ.
+I am coming now.,ಯಾನ್ ಇತ್ತೆ ಬರ್ಪೆ.
+I am waiting for you.,ಯಾನ್ ನಿಕ್ಲೆಗ್ ಕಾತೊಂದುಲ್ಲೆ.
+I am very happy.,ಎಂಕ್ ಮಸ್ತ್ ಸಂತೋಷ ಉಂಡು.
+I am tired.,ಎಂಕ್ ಸುಸ್ತಾದ್ ಉಲ್ಲೆ.
+I am busy now.,ಇತ್ತೆ ಯಾನ್ ಬಿಜಿ ಉಲ್ಲೆ.
+Don’t worry.,ಎತೆ ಮಲ್ಪಡೆ.
+Take care.,ಜಾಗ್ರತೆ.
+See you later.,ನಿಕ್ಕು ಬೊಕ ತಿಕ್ವೆ.
+buttermilk,ಮಜ್ಜಿಗೆ
+curd,ದೋಸೆ
+butter,ಬೊಳ್ ನೈ
+ghee,ತುಪ್ಪ
+honey,ತಿಗತ ನೈ
+salt,ಉಪ್ಪು
+pepper,ಎಡ್ದೆ ಮುಂಚಿ
+chili,ಮೆಣಸಿನಕಾಯಿ
+spice,ಮಸಾಲೆ
+curry,ಕಜಿಪು
+vegetable,ತರ್ಕಾರಿ
+fruit,ಪರ್ ನ್ದ್
+banana,ಪರ್ನ್ದು
+mango,ಮಾವಿನ
+jackfruit,ಜಾಕ್ ಫ್ರುಟ್
+coconut,ತಾರಾಯಿ
+orange,ಕಿತ್ತಲೆ
+apple,ಸೇಬ್
+grapes,ದ್ರಾಕ್ಷಿ
+lemon,ನಿಂಬೆ
+sugarcane,ಕಬ್ಬು
+potato,ಬಟಾಟೆ
+tomato,ಟೊಮೆಟೊ
+onion,ನೀರುಳ್ಳಿ
+garlic,ಬೊಳ್ಳುಳ್ಳಿ
+ginger,ಸೂಂಠಿ
+carrot,ಕ್ಯಾರೆಟ್
+beans,ಕಾಳು
+brinjal,ಬೆನ್ನಿ
+drumstick,ಡ್ರಮ್ಸ್ಟಿಕ್
+pumpkin,ಕುಂಬುಡ
+cabbage,ಕ್ಯಾಬೇಜ್
+cauliflower,ಹೂಕೋಸು
+ladyfinger,ಲೇಡಿಫಿಂಗರ್
+spinach,ಬಸಳೆ
+cucumber,ಕುಂಬುಡ
+market,ಸಂತೆ
+shop,ಅಂಗಡಿ
+shopping,ಖರೀದಿ ಮಲ್ಪುನು
+buy,ದೆತ್ತೊನ್
+sell,ಮಾರುನು
+money,ಕಾಸ್
+price,ಬಿಲೆ
+cheap,ಕಮ್ಮಿ ಕ್ರಯ
+expensive,ಪಿರಿಯ
+change,ಬದಲಾವನೆ
+bargain,ಚರ್ಚೆ ಮಲ್ಪುನು
+bill,ಬಿಲ್ಲ್
+payment,ದುಡ್ಡು ಕೊರ್ಪುನಿ
+cash,ಪಣವು
+coin,ನಾಣ್ಯ
+note,ಸೂಚನೆ
+wallet,ಪರ್ಸ್
+purse,ಪರ್ಸ್
+bank,ದಡ
+ATM,ಎಟಿಎಂ
+borrow,ದೆತ್ತೊನ್ನು
+lend,ಕೊರು
+save,ಬಚಾವು
+spend,ಖರ್ಚಿ
+income,ಆದಾಯ
+salary,ಸಂಬಳ
+work,ಬೆಲೆ
+job,ಕೆಲಸ
+office,ಆಪೀಸ್
+manager,ಮೇನೇಜರ್
+employee,ನೌಕರೆ
+boss,ಧಣಿ
+colleague,ಒಟ್ಟುಗು ಬೇಲೆ ಮಲ್ಪುನಾಯೆ
+meeting,ಸಭೆ
+holiday,ರಜೆ
+leave,ಬುಡ್ಲ
+exam,ಪರೀಕ್ಷೆ
+study,ಅಭ್ಯಾಸ
+student,ವಿದ್ಯಾರ್ಥಿ
+teacher,ಗುರುಕ್ಕುಲು
+school,ಶಾಲೆ
+college,ಕಾಲೇಜ್
+university,ಮಲ್ಲ ವಿದ್ಯಾಸಂಸ್ಥೆ
+subject,ವಿಷಯ
+book,ಪುಸ್ತಕ
+notebook,ನೋಟ್ಬುಕ್
+pen,ಪೆನ್ನ್
+pencil,ಪೆನ್ಸಿಲ್
+eraser,ರಬ್ಬರು
+sharpener,ಶಾರ್ಪನರ್
+scale,ಮಾಪು
+bag,ಚೀಲ
+blackboard,ಕಪ್ಪು ಫಲಕ
+chalk,ಸೀಮೆಸುಣ್ಣ
+classroom,ಕ್ಲಾಸ್ ರೂಮ್
+library,ಲೈಬ್ರೆರಿ
+question,ಪ್ರಶ್ನೆ
+answer,ಉತ್ತರ
+test,ಪರೀಕ್ಷೆ
+result,ಫಲಿತ
+pass,ಪಾಸ್
+fail,ನಪಾಸ್:
+lesson,ಪಾಠ
+chapter,ಅಧ್ಯಾಯ
+knowledge,ಪೊಲಬು
+learn,ಕಲ್ಪುನು
+understand,ಅರ್ಥ ಆಂಡೆ
+remember,ನೆನೆಪು
+forget,ಮದಪುನು
+repeat,ಕುಡಒರ
+explain,ಬುಡ್ಪಾದ್ ಪನ್ಪಿನಿ
+teach,ಕಲ್ಪಾವುನು
+train,ರೈಲ್
+practice,ಅಭ್ಯಾಸ
+exercise,ಅಭ್ಯಾಸ
+hospital,ಆಸ್ಪತ್ರೆ
+doctor,ಡಾಕ್ಟ್ರು
+nurse,ದಾದಿ
+patient,ರೋಗಿ
+medicine,ಮರ್ದ್
+tablet,ಟ್ಯಾಬ್ಲೆಟ್
+capsule,ಕ್ಯಾಪ್ಸುಲ್
+injection,ಇಂಜೆಕ್ಷನ್
+syrup,ಸಿರಪ್
+treatment,ಉಪಚಾರ
+surgery,ಆಪ್ರೇಷನ್
+pain,ಬೇನೆ
+fever,ಜ್ವರ
+headache,ತರೆಬೇನೆ
+cold,ಚಳಿ
+cough,ತೆಮ್ಮ
+vomit,ವಾಂತಿ
+stomachache,ಪೊಟ್ಟೆ ಬೇನೆ
+injury,ಗಾಯ
+wound,ಗಾಯ
+blood,ನೆತ್ತೆರ್
+ambulance,ಆಂಬುಲೆನ್ಸ್
+first aid,ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ
+pharmacy,ಔಷಧಾಲಯ
+health,ಆರೋಗ್ಯ
+disease,ಸೀಕ್
+sick,ಸೀಕ್
+well,ಏಡ್ಡೆ
+strong,ಗಟ್ಟಿ
+weak,ಬಲದಾಂತಿನ
+alive,ಜೀವ ಉಪ್ಪುನು
+dead,ಸೈದಿನಿ
+life,ಬದ್ ಕ್
+birth,ಪುಟ್ಟು
+death,ಮರಣ
+rain,ಬರ್ಸ
+sun,ಸೂರ್ಯೆ
+cloud,ಮೋಡ
+wind,ಗಾಳಿ
+storm,ಬಿರುಗಾಳಿ
+lightning,ಮಿಂಚ್ ದಕ್ಕುನು
+thunder,ತೆಡಿಲ್
+flood,ಬೊಲ್ಲ
+earthquake,ಭೂಕಂಪ
+summer,ಅರೆಗಾಲ
+winter,ಚಳಿಗಾಲ
+monsoon,ಮಳೆಗಾಲ
+hot,ಬೆಚ್ಚ
+cold,ಚಳಿ
+warm,ಬೆಚ್ಚ
+cool,ತಂಪು
+climate,ಹವಾಗುಣ
+weather,ಹವಾಮಾನ
+season,ಕಾಲ
+sea,ಕಡಲ್
+river,ತುದೆ
+lake,ಮಲ್ಲ ಕಿರೆ
+pond,ಕೆದು
+well,ಏಡ್ಡೆ
+mountain,ಪರ್ವತ
+hill,ಗುಡ್ಡೆ
+valley,ಕಣಿ
+forest,ಕಾಡ್
+tree,ಮರ
+plant,ದೈ
+leaf,ಇರೆ
+flower,ಪೂ
+fruit,ಪರ್ ನ್ದ್
+seed,ಬೀಜ
+root,ಬೇರ್
+branch,ಗೆಲ್ಲ್
+animal,ಪ್ರಾಣಿ
+cow,ಪೆತ್ತ
+buffalo,ಎಮ್ಮೆ
+goat,ಏಡ್
+sheep,ಕುರಿ
+pig,ಪಂಜಿ
+horse,ಕುದುರೆ
+camel,ಒಂಟೆ
+dog,ನಾಯಿ
+cat,ಪುಚ್ಚೆ
+hen,ಕೋರಿ
+duck,ಬಾತುಕೋಳಿ
+parrot,ಗಿಣಿ
+crow,ಕಕ್ಕೆ
+sparrow,ಕುದುರೆ
+peacock,ನವಿಲು
+pigeon,ಪುದ
+ant,ಇರುವೆ
+bee,ತೊಡ್ಡೆ
+butterfly,ಚಿಟ್ಟೆ
+mosquito,ಸೊಳ್ಳೆ
+fly,ರಾಪಿನಿ
+snake,ಪರಪುನ
+tiger,ಪಿಲಿ
+lion,ಸಿಮ
+elephant,ಆನೆ
+monkey,ಮಂಗೆ
+fox,ಕುದುಕೆ
+wolf,ಮಲ್ಲ ಕುದುಕೆ
+bear,ತುತ್ತೊಂನ
+deer,ಜಿಂಕೆ
+rat,ಎಲಿ
+frog,ಕಪ್ಪೆ
+fish,ಮೀನ್
+shark,ಶಾರ್ಕ್
+turtle,ಏಮೆ
+crab,ಜೆಂಜಿ
+octopus,ಆಕ್ಟೋಪಸ್
+emotion,ಭಾವನೆ
+happy,ಸಂತೋಷ
+sad,ದುಃಖ
+angry,ಕೋಪ
+afraid,ಪೋಡಿಗೆ
+worried,ಎತೆತ್ತ
+confused,ತತ್ತಿರಿಬಿತ್ತಿರಿ
+surprised,ಆಶ್ಚರ್ಯ
+excited,ಸಂಭ್ರಮ
+nervous,ಪೋಡಿಗೆ
+jealous,ನಂಜಿ
+proud,ಪೆರ್ಮೆ
+relaxed,ರಿಲಾಕ್ಸ್ ಆಯಿನ
+tired,ಸಾಕಾಂಡು
+bored,ಬೆಸರ್
+hungry,ಬಡವು
+thirsty,ಬಾಜೆಲ್
+sleepy,ಜೆಪ್ಪುನ
+festival,ಪರ್ಬ
+marriage,ಮದ್ಮೆ
+wedding,ಮದಿಮೆದ
+birthday,ಪುಟ್ಟಿನ ದಿನ
+ceremony,ಕಾರ್ಯಕ್ರಮ
+dance,ನಲ್ಪು
+song,ಪದ್ಯ
+music,ಪದ್ಯ
+drum,ಡ್ರಮ್
+temple,ದೇವಸ್ಥಾನ
+church,ಚರ್ಚ್
+mosque,ಮಸೀದಿ
+prayer,ಪ್ರಾರ್ಥನೆ
+god,ದೇವೆರ್
+goddess,ದೇವತೆ
+idol,ಮೂರ್ತಿ
+ritual,ಆಚರಣೆ
+tradition,ಸಂಪ್ರದಾಯೊ
+culture,ಸಂಸ್ಕೃತಿ
+language,ಭಾಷೆ
+people,ಜನ
+village,ಗ್ರಾಮ
+town,ಪೇಂಟೆ
+city,ಪೇಂಟೆ
+country,ದೇಶ
+nation,ರಾಷ್ಟ್ರ
+flag,ಬಾವುಟ
+freedom,ಸ್ವಾತಂತ್ರ್ಯ
+independence,ಸ್ವಾತಂತ್ರ್ಯ
+law,ಕಾನೂನು
+rule,ನಿಯಮೊ
+police,ಪೋಲಿಸ್
+court,ಕೋರ್ಟು
+judge,ಜಡ್ಜ್
+case,ಪ್ರಕರಣ
+crime,ಅಪರಾಧ
+punishment,ಶಿಕ್ಷೆ
+help,ಸಹಾಯೊ
+save,ಬಚಾವು
+danger,ಅಪಾಯ
+fire,ತೂ
+accident,ಆಕ್ಸಿಡೆಂಟ್
+alert,ಜಾಗ್ರತೆ
+stop,ಉಂತವು
+run,ಬಲ್ಪು
+come here,ಈಡೆ ಬಲೆ
+go there,ಅಲ್ಪ ಪೋಲೆ
+sit down,ಕುಲ್ಲುಲೆ
+stand up,ಉಂತುಲೆ
+be careful,ಜಾಗ್ರತೆಡು ಉಪ್ಲ
+don’t worry,ಎತೆ ಮಲ್ಪಡೆ
+don’t do that,ಅವೆನ್ ಮಲ್ಪುಜೆರ್
+take care,ಜಾಗ್ರತೆ
+what happened?,ದಾದ ಆಂಡ್?
+nothing,ದಾಲಇಜ್ಜಿ
+it’s okay,ಅವ್ವು ಆವು
+let’s go,ಪೋವೊಡು
+wait a minute,ಒಂಜಿ ನಿಮಿಷ ನಿಲೆ
+call me,ಏನನ್ ಲೆಪ್ಲ
+I am busy,ಯಾನ್ ಬಿಜಿ ಉಲ್ಲೆ
+I am free,ಯಾನ್ ಸ್ವತಂತ್ರ
+I am tired,ಎಂಕ್ ದಣಿದ್ಂಡ್
+I am happy,ಯಾನ್ ಸಂತೋಷೊಡು ಉಲ್ಲೆ
+I am hungry,ಎಂಕ್ ಬಡವು ಉಂಡು
+I am thirsty,ಎಂಕ್ ಬಾಸೆ ಉಂಡು
+I am sleepy,ಎಂಕ್ ನಿದ್ರೆ ಬರ್ಪುಂಡು
+I am not feeling well,ಎಂಕ್ ಎಡ್ಡೆ ಇಜ್ಜಿ
+I need help,ಎಂಕ್ ಸಹಾಯ ಬೋಡು
+I need water,ಎಂಕ್ ನೀರ್ ಬೋಡು
+I need medicine,ಎಂಕ್ ಮರ್ದ್ ಬೋಡು
+Can you help me?,ಈರ್ ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪೊಲಿಯಾ?
+Can you speak slowly?,ಈರ್ ನಿಧಾನವಾದ್ ಪಾತೆರೊಲಿಯಾ?
+Can you repeat that?,ಈರ್ ಅವೆನ್ ಪುನರಾವರ್ತಿಸೊಲಿ?
+Do you understand?,ನಿಕ್ಲೆಗ್ ಅರ್ಥ ಆಂಡ್?
+"Yes, I understand","ಐನ್, ಎಂಕ್ ಅರ್ಥ ಆಂಡ್"
+"No, I don’t understand","ಇಜ್ಜಿ, ಎಂಕ್ ಅರ್ಥ ಆಪುಜಿ"
+Where are you from?,ಯೀರೆಗು ಒಲ್ಪ ಆಂಡ್?
+I am from Mangalore,ಯಾನ್ ಕುಡ್ಲದ
+What is your age?,ನಿಕ್ಲೆನ ಪ್ರಾಯ ಎಂಚ ಉಂಡು?
+I am 19 years old,ಎಂಕ್ 19 ವರ್ಷ
+Are you coming tomorrow?,ಈರ್ ನಾಳೆ ಬರ್ಪರ್?
+I will come today,ಯಾನ್ ಇನಿ ಬರ್ಪೆ
+I will not come,ಯಾನ್ ಬರ್ಪುಜಿ
+See you later,ನಿಕ್ಕು ಬೊಕ ತಿಕ್ವೆ
+See you soon,ನಿನ್ನ ಮಗನ್ ತೂಲ
+Good luck,ಎಡ್ಡೆ ಆವಡ್
+Best wishes,ಎಡ್ಡೆಪ್ಪುಲು
+Congratulations,ಅಭಿನಂದನೆಲು
+Happy birthday,ಸಂತೋಷದ ಪುಟ್ಟಿನ ಪರ್ಬ
+Happy marriage,ಮದಿಮೆದ ಎಡ್ಡೆಪ್ಪು
+Happy festival,ಪರ್ಬದ ಎಡ್ಡೆಪ್ಪುಲು
+Thank you very much,ಇರೆಗ್ ಮಸ್ತ್ ಸೊನ್ಮೆಲು
+No problem,ಮಲ್ಲೆಜ್ಜಿ
+Excuse me please,ಕ್ಷಮೆ ಮಲ್ಪುಲೆ ದಯಮಲ್ತ್
+How much does it cost?,ಉಂದೆಕ್ ಎಂಚ ಖರ್ಚು ಆಪುಂಡು?
+Give me discount,ಎಂಕ್ ರಿಯಾಯಿತಿ ಕೊರ್ಲೆ
+This is expensive,ಉಂದು ದುಬಾರಿ
+This is cheap,ಉಂದು ಅಗ್ಗ
+I don’t want this,ಎಂಕ್ ಉಂದು ಬೋಡುಜಿ
+I want this,ಎಂಕ್ ಉಂದು ಬೋಡು
+Where is the bus stop?,ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿ ಉಂಡು?
+Where is the station?,ನಿಲ್ದಾಣ ಎಲ್ಲಿ ಉಂಡು?
+Where is the hospital?,ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿ ಉಂಡು?
+Where is the school?,ಶಾಲೆ ಎಲ್ಲಿ ಉಂಡು?
+Where is the temple?,ದೇವಸ್ಥಾನ ಎಲ್ಲೆ ಉಂಡು?
+How do I go there?,ಯಾನ್ ಅಲ್ಪ ಎಂಚ ಪೋವೊಲಿ?
+Turn left,ಎಡತ್ತ್ ಪೋಲೆ
+Turn right,ಬಲತ್ತ ಕಡೆಟ್ ಪೋಲೆ
+Go straight,ಸೀದಾ ಪೋಲೆ
+Stop here,ಮುಲ್ಪ ನಿಲೆ
+It is near,ಉಂದು ಸಮೀಪ ಉಂಡು
+It is far,ಉಂದು ದೂರ ಉಂಡು
+I am going home,ಯಾನ್ ಇಲ್ಲಗ್ ಪೋವೊಂದುಲ್ಲೆ
+I am coming now,ಯಾನ್ ಇತ್ತೆ ಬರ್ಪೆ
+I am waiting for you,ಯಾನ್ ನಿಕ್ಲೆಗ್ ಕಾತೊಂದುಲ್ಲೆ
+Please wait,ದಯಮಲ್ತ್ ನಿರೀಕ್ಷೆ ಮಲ್ಪುಲೆ
+I am working,ಯಾನ್ ಬೇಲೆ ಮಲ್ತೊಂದುಲ್ಲೆ
+I am studying,ಯಾನ್ ಅಧ್ಯಯನ ಮಲ್ತೊಂದುಲ್ಲೆ
+I am cooking food,ಯಾನ್ ನುಪ್ಪು ಮಲ್ತೊಂದುಲ್ಲೆ
+I am cleaning the house,ಯಾನ್ ಇಲ್ಲ್ ಸ್ವಚ್ಛ ಮಲ್ತೊಂದುಲ್ಲೆ
+I am reading a book,ಯಾನ್ ಒಂಜಿ ಪುಸ್ತಕ ಓದುದುಲ್ಲೆ
+I am writing,ಯಾನ್ ಬರೆವೊಂದುಲ್ಲೆ
+I am listening,ಯಾನ್ ಕೇನ್ವೊಂದುಲ್ಲೆ
+I am watching TV,ಯಾನ್ ಟಿವಿ ತೂವೊಂದುಲ್ಲೆ
+I am playing,ಯಾನ್ ಆಟ ಆಡೊಂದುಲ್ಲೆ
+I am sleeping,ಯಾನ್ ನಿದ್ರೆ ಮಲ್ತೊಂದುಲ್ಲೆ
+Wake up,ಲಕ್ಕ್
+Hurry up,ಬೇಕ ಮಾಲ್ಪುಲೆ
+Don’t be late,ತಡ ಆವಡ್
+love,ಪ್ರೀತಿ
